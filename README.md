@@ -70,36 +70,6 @@ Skin disease detection using machine learning[6] -
 This paper discusses the use of convolutional neural networks along with some ensemble learning. In this paper, the proposed model consists of five models such as CNN, VGG16, DenseNet, Inception model and ensemble of VGG16, Inception and DenseNet, for detecting certain types of skin diseases using dermatoscopic images of skin lesions. The model used gives a result with 85.02% accuracy with VGG16, DenseNet and Inception in ensemble method. This paper also discusses some limitations such as limited dataset and presence of more than one disease in one image as it can detect only one disease at one time.
 
 
-Title
-Authors
-Methods and models 
-Result
-An Introduction to Convolutional Neural Networks 
-Keiron O’Shea and Ryan Nash
-Convolutional Neural Network created with multiple layers such as input layer, convolutional layer, pooling layer, fully-connected layers
-An foundation to CNNs 
-A Method of Skin Disease Detection Using Image Processing And Machine Learning
-Nawal Soliman ALKolifi ALEnezi
-Preprocessing, Feature Extraction, and Classification using Support Vector Machine Classifier
-On giving the image as input to the model it classify the image into the types of diseases using SVM Classifier
-Survey of Texture Based Feature Extraction For Skin Disease Detection
-Seema Kolkur, D.R. Kalbande
-Grey Level Co-occurrence Matrix, SVM, Neural Network
-Texture based classification of input image of skin lesions.
-Skin Disease Detection model using image processing
-Archana Ajith, Vrinda Goel, Priyanka Vazirani, Dr. M. Mani Roja
-Image processing with the help of Discrete Cosine Transform(DCT), Discrete Wavelet Transform (DVT), Singular Value Decomposition(SVD)
-Diseases first detected with DCT with 8, 16, 32, and 64 coefficients.
-DWT with different levels of decomposition and SVD with different number of singular values
-Image based skin disease detection using hybrid neural network coupled Bag-of-Features
-Shouvik Chakraborty, Kalyani Mali, Sankhadeep Chatterjee, Sumit Anand, Aavery Basu, Soumen Banerjee, Mitali Das, Abhishek Bhattacharya
-Bag-of-features based model with NN-NSGA-II for detecting and classification of skin disease. Scale Invariant Feature Trans-Form method to extract features.
-NN-NSGA-II is superior  to NN-PSO and NN-CS as it achieved accuracy of 90.56%, precision of 88.26%, 93.64% recall and 90.87% F-measure.
-Skin disease detection using machine learning
-Dr. T. Kameswara Rao, P. Chamanthi, N. Tharun Kumar, R. Lakshmi Amulya, M. Uday Sagar
-Models used are Convolutional Neural Networks, VGG16, DenseNet, Inception, and ensemble of VGG16, DenseNet, and Inception models.
-Accuracy of all models calculated and compared, out of which ensemble model gained highest accuracy. CNN gained accuracy of 74.59%, while VGG16 got 80.33%, DenseNet 82.83%, Inception 80.43% and ensemble model with 85.02% accuracy.
-
 
 Problem Identification
 
